@@ -4,3 +4,4 @@ output.txt
 run.sh
 view.html
 *.html
+.vscode/
