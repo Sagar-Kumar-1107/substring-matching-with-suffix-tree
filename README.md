@@ -26,7 +26,7 @@ This project implements substring matching using multiple approaches:
 
 1. **The Problem Statement**
 2. **A Naïve Approach**  
-   - Simple brute-force pattern matching  
+   - Simple brute-force pattern matching, running in average O(mn) time.
 3. **Tries**  
    - Tree-based pattern storage  
 4. **Compressed Tries**  
